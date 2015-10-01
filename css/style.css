@@ -33,6 +33,43 @@
 	display: inline-block;
 	margin: 0px 5px;
 }
+.menu{
+	text-align: right;
+}
+.menu ul{
+	margin-bottom: 0px;
+}
+.menu li{
+	display: inline-block;
+	margin-bottom: 0px;
+	padding: 10px 0px;
+}
+.menu li a{
+	text-decoration: none;
+	color: #ffffff;
+	padding: 16px 20px 18px 20px;
+}
+.menu li:nth-child(1):after,.menu li:nth-child(2):after,.menu li:nth-child(3):after,.menu li:nth-child(4):after{
+	content: url(../images/line-menu.png)" ";
+}
+.menu li:after, .menu li{
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.menu li a:hover, .menu li a:active, .menu li a:focus{
+	background: #de0115;
+	padding: 16px 20px 18px 20px;
+}
+.menu li ul{
+	display: none;
+}
+.franja__menu{
+	background: #3477bb;
+	border-bottom: 3px solid #d4d6da;
+	position: relative;
+	top: -30px;
+}
 
 
 /*------------------------------------*\
