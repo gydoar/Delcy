@@ -1,0 +1,62 @@
+.logo{
+	padding-top: 40px;
+}
+.header__contacto{
+	text-align: center;
+}
+.header__contacto img{
+	margin-bottom: 12px;
+}
+
+.bottom__header{
+	margin-top: -10px;
+	width: 100%;
+	border:1px solid #2C67A3;
+	padding: 8px 0px;
+}
+.bottom__header:hover{
+	background: #2C67A3;
+	cursor: pointer;
+	color: #ffffff;
+}
+.bottom__header a{
+	text-decoration: none;
+}
+.bottom__header a:hover{
+	color: #ffffff;
+}
+.icon__header{
+	text-align: right;
+	margin-top: 10px;
+}
+.icon__header li{
+	display: inline-block;
+	margin: 0px 5px;
+}
+
+
+/*------------------------------------*\
+    $MEDIA-QUERIES
+\*------------------------------------*/
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		.icon__header{
+			text-align: center;
+		}
+		.icon__header li{
+			margin: 0px;
+		}
+	}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {}
