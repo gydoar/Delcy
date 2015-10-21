@@ -22,6 +22,8 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/meanmenu.css">
+  <link rel="stylesheet" href="css/owl.carousel.css">
+  <link rel="stylesheet" href="css/owl.theme.css">
   <link rel="stylesheet" href="css/style.css">
 
   <!-- Favicon
@@ -37,13 +39,13 @@
 
     <header>
   		<div class="logo seven columns">
-  			<a href="#"><img class="twelve columns" src="images/logo.png" alt=""></a>
+  			<a href="/"><img class="twelve columns" src="images/logo.png" alt=""></a>
   		</div>
 
   		<div class="header__contacto four columns offset-by-one">
   			<img width="100%" src="images/linea-header.png" alt="">
         <div class="bottom__header">
-          <a href="#">RESERVA TU CITA MEDICA</a>
+          <a href="contactanos.php">RESERVA TU CITA MEDICA</a>
         </div>
 
         <ul class="icon__header">
@@ -59,17 +61,17 @@
   <div class="franja__menu">
     <nav class="menu container">
       <ul>
-        <li><a href="#">INICIO</a></li>
-        <li><a href="#">QUIÉN SOY</a></li>
+        <li><a href="/">INICIO</a></li>
+        <li><a href="quien-soy.php">QUIÉN SOY</a></li>
         <li><a href="#">ENFERMEDADES</a>
           <ul>
-            <li><a href="#">ARTERIALES</a></li>
-            <li><a href="#">VENOSAS</a></li>
-            <li><a href="#">LINFATICOS</a></li>
+            <li><a href="arteriales.php">ARTERIALES</a></li>
+            <li><a href="venosas.php">VENOSAS</a></li>
+            <li><a href="linfaticos.php">LINFATICOS</a></li>
           </ul>
         </li>
-        <li><a href="#">DIAGNOSTICOS</a></li>
-        <li><a href="#">CONTÁCTANOS</a></li>
+        <li><a href="diagnosticos.php">DIAGNOSTICOS</a></li>
+        <li><a href="contactanos.php">CONTÁCTANOS</a></li>
       </ul>
     </nav>
    </div>
