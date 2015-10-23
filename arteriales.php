@@ -12,7 +12,7 @@
 			<h3>ANEURISMA</h3>
 
 			<p>
-
+				<p><img src="images/aneurisma.png" alt=""></p>
 				<p>Es un ensanchamiento o abombamiento anormal de una porción de una arteria debido a una debilidad en la pared del vaso sanguíneo.</p>
 
 				<h4>Principales Síntomas</h4>
@@ -29,7 +29,7 @@
 		
 			<h3>ARTERIOSCLEROSIS</h3>
 			<p>
-
+				<p><img src="images/arteriosclerosis.png" alt=""></p>
 				<p>Arteriosclerosis es una enfermedad de los vasos sanguíneos producida por un acumulo de colesterol, que hace que la sangre circule con mayor dificultad por las mismas y aumente el riesgo de producir obstrucciones. Esta enfermedad se desarrolla lentamente, puede comenzar en edades.</p>
 
 				<h4>Principales Síntomas</h4>
@@ -47,6 +47,7 @@
 
 
 			<h3>PIE DIABÉTICO</h3>
+			<p><img src="images/pie-diabetico.png" alt=""></p>
 			<p>
 				<p>El pie diabético, según el Consenso Internacional sobre Pie Diabético es una infección, ulceración o destrucción de los tejidos profundos relacionados con alteraciones neurológicas y distintos grados de enfermedad vascular periférica en las extremidades inferiores que afecta a pacientes con diabetes mellitus.</p>
 

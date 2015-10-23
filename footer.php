@@ -1,9 +1,9 @@
 <footer class="">
 	<div class="container">
 		<ul class="contacto__footer">
-			<li>&nbsp;<span>EDIFICIO ACOMEDICA I</span> Calle 127 No. 19ª - 10, Cons. 312</li>
-			<li>&nbsp;<span>CORREO</span> <a href="mailto:consulta@dradelcyaraquelafaurie.com">consulta@dradelcyaraquelafaurie.com</a></li>
-			<li>&nbsp;<span>TELÉFONO</span> +57 649 7605/06 Ext. 300 y 318</li>
+			<li>&nbsp;Calle 127 No. 19ª - 10, Cons. 312</li>
+			<li>&nbsp;<a href="mailto:consulta@dradelcyaraquelafaurie.com">consulta@dradelcyaraquelafaurie.com</a></li>
+			<li>&nbsp;+57 649 7605/06 Ext. 300 y 318</li>
 		</ul>
 	</div>
 
@@ -13,18 +13,18 @@
 			<ul class="menu__footer">
 				<li><a href="/">INICIO</a></li>
 				<li><a href="quien-soy.php">QUIÉN SOY</a></li>
-				<li><a href="venosas.php">VARISES</a></li>
+				<li><a href="cuida-tu-salud.php">VARISES</a></li>
 				<li><a href="diagnosticos.php">DIAGNOSTICOS</a></li>
 				<li><a href="contactanos.php">CONTÁCTANOS</a></li>
 			</ul>
 			</div>
 			<div class="three columns">
 				<ul class="menu__footer">
-					<li><a href="#">ANEURISMA</a></li>
-					<li><a href="#">ARTERIOSCLEROSIS</a></li>
-					<li><a href="#">PIE DIABÉTICO</a></li>
-					<li><a href="#">LINFEDEMAS</a></li>
-					<li><a href="#">ESCLEROTERAPIA</a></li>
+					<li><a href="arteriales.php">ANEURISMA</a></li>
+					<li><a href="arteriales.php">ARTERIOSCLEROSIS</a></li>
+					<li><a href="arteriales.php">PIE DIABÉTICO</a></li>
+					<li><a href="linfaticos.php">LINFEDEMAS</a></li>
+					<li><a href="cuida-tu-salud.php">ESCLEROTERAPIA</a></li>
 				</ul>
 			</div>
 			<div class="six columns">
@@ -57,12 +57,12 @@ $(document).ready(function () {
  
 	  $("#owl-demo").owlCarousel({
 	 
-	      navigation : true, // Show next and prev buttons
 	      slideSpeed : 300,
 	      autoPlay:true,
 	      paginationSpeed : 400,
 	      singleItem:true,
-	      pagination:false
+	      pagination:true,
+	      paginationNumbers: true
 	 
 	      // "singleItem:true" is a shortcut for:
 	      // items : 1, 

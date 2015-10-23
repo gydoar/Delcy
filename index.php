@@ -23,12 +23,12 @@
 				<div class="six columns">
 					<img class="twelve columns" src="images/venas-varices.jpg" alt="">
 					<p>Las várices son venas dilatadas que se inflaman y se elevan a la superficie de la piel. Pueden ser de un color morado o azul oscuro y parecer estar torcidas...</p>
-					<a class="botones__red" href="venosas.php">LEER MÁS</a>
+					<a class="botones__red" href="cuida-tu-salud.php">LEER MÁS</a>
 				</div>
 				<div class="six columns">
-					<img class="twelve columns" src="images/escleroteriapia.jpg" alt="">
+					<img class="twelve columns" src="images/escleroterapia.jpg" alt="">
 					<p>Escleroterapia corresponde a un método seguro y efectivo para la eliminación de venas reticulares (a 5 mm de diámetro) y de telangiectasias o arañas...</p>
-					<a class="botones__red" href="#">LEER MÁS</a>
+					<a class="botones__red" href="cuida-tu-salud.php">LEER MÁS</a>
 				</div>
 			</div>		
 			
@@ -72,27 +72,27 @@
 		
 		<div class="row consejos">
 			<div class="three columns">
-				<a class="twelve columns" href=""><img class="twelve columns" src="images/cuando-duermes-1.jpg" alt=""></a>
+				<a class="twelve columns" href="consejos.php"><img class="twelve columns" src="images/cuando-duermes-1.jpg" alt=""></a>
 				<div class="twelve columns caja__consejos">
-					<a href="">CUANDO DUERMES</a>
+					<a href="consejos.php">CUANDO DUERMES</a>
 				</div>	
 			</div>
 			<div class="three columns">
-				<a class="twelve columns" href=""><img class="twelve columns" src="images/haz-ejercicio.png" alt=""></a>
+				<a class="twelve columns" href="consejos.php"><img class="twelve columns" src="images/haz-ejercicio.png" alt=""></a>
 				<div class="twelve columns caja__consejos">
-					<a href="">HAZ EJERCICIO</a>
+					<a href="consejos.php">HAZ EJERCICIO</a>
 				</div>	
 			</div>
 			<div class="three columns">
-				<a class="twelve columns" href=""><img class="twelve columns" src="images/cuida-tus-posturas.png" alt=""></a>
+				<a class="twelve columns" href="consejos.php"><img class="twelve columns" src="images/cuida-tus-posturas.png" alt=""></a>
 				<div class="twelve columns caja__consejos">
-					<a href="">CUIDA TUS POSTURAS</a>
+					<a href="consejos.php">CUIDA TUS POSTURAS</a>
 				</div>	
 			</div>
 			<div class="three columns">
-				<a class="twelve columns" href=""><img class="twelve columns" src="images/dieta-sana.png" alt=""></a>
+				<a class="twelve columns" href="consejos.php"><img class="twelve columns" src="images/dieta-sana.png" alt=""></a>
 				<div class="twelve columns caja__consejos">
-					<a href="">DIETA SANA</a>
+					<a href="consejos.php">DIETA SANA</a>
 				</div>	
 			</div>
 		</div>		

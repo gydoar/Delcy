@@ -12,6 +12,7 @@
 			<h3>VARISES</h3>
 
 			<p>
+				<p><img src="images/varices.png" alt=""></p>
 
 				<p>Las várices son venas dilatadas que se inflaman y se elevan a la superficie de la piel. Pueden ser de un color morado o azul oscuro y parecer estar torcidas y abultadas. Las várices se encuentran comúnmente en las partes posteriores de las pantorrillas o en la cara interna de la pierna.</p>
 
@@ -37,7 +38,7 @@
 		
 			<h3>INSUFICIENCIA VENOSA</h3>
 			<p>
-
+				<p><img src="images/insuficiencia-venosa.png" alt=""></p>
 				<p>Es una afección en la cual las venas tienen problemas para retornar la sangre de las piernas al corazón.</p>
 
 				<h4>Principales Síntomas</h4>
@@ -62,12 +63,14 @@
 
 
 			<h3>TROMBOSIS VENOSA</h3>
+			<p><img src="images/Trombosis-venosa.png" alt=""></p>
 			<p>
 				<p>La trombosis venosa o tromboembolismo venoso, es la formación de una masa hemática dentro de una vena durante la vida. Esta puede clasificarse en trombosis venosa superficial (tromboflebitis superficial), o bien, trombosis venosa profunda.</p>
 			</p>
 
 			<h3>ÚLCERA VENOSA</h3>
 			<p>
+				<p><img src="images/Ulcera-venosa.png" alt=""></p>
 				<p>Úlcera venosa o úlcera varicosa es un tipo de úlcera producida por un deficiente funcionamiento del sistema venoso, generalmente en las piernas. Son la primera causa de lesión crónica, representando entre el 70 y el 90% de éstas Suelen desarrollarse fundamentalmente a lo largo de la zona distal y medial de la pierna.</p>
 			</p>
 		</div>

@@ -11,7 +11,7 @@
 
 			<h3>CUANDO DUERMES</h3>
 
-			<p class="container">
+			<p>
 
 				<p><img src="images/cuando-duermes.jpg" alt=""></p>
 
@@ -22,20 +22,23 @@
 		
 			<h3>HAZ EJERCICIO</h3>
 			<p>
-
-				Haz ejercicio de forma regular al menos 3 veces a la semana para reactivar el flujo de sangre, son buenos ejercicios caminar, bailar, nadar o andar en bicicleta.
+				
+				<p><img src="images/haz-ejercicio-1.png" alt=""></p>
+				<p>Haz ejercicio de forma regular al menos 3 veces a la semana para reactivar el flujo de sangre, son buenos ejercicios caminar, bailar, nadar o andar en bicicleta.</p>
 
 			</p>
 
 
 			<h3>CUIDA TUS POSTURAS</h3>
 			<p>
-				Cuida las posturas: no estar mucho tiempo de pie sin caminar, arrodillarse lo menos posible y no estar muchas horas sentado.
+				<p><img src="images/cuida-tus-posturas-1.png" alt=""></p>
+				<p>Cuida las posturas: no estar mucho tiempo de pie sin caminar, arrodillarse lo menos posible y no estar muchas horas sentado.</p>
 			</p>
 
 			<h3>DIETA SANA</h3>
 			<p>
-				Mantén una dieta sana a base de frutas, verduras, legumbres, cereales, aceite de oliva, con pocas carnes grasas, poca fritura y pocos embutidos.
+				<p><img src="images/dieta-sana-1.png" alt=""></p>
+				<p>Mantén una dieta sana a base de frutas, verduras, legumbres, cereales, aceite de oliva, con pocas carnes grasas, poca fritura y pocos embutidos.</p>
 			</p>
 	
 		</div>

@@ -34,6 +34,9 @@
 	display: inline-block;
 	margin: 0px 5px;
 }
+.icon__header li a:hover{
+	opacity: 0.6;
+}
 .menu{
 	text-align: right;
 }
@@ -78,25 +81,24 @@
 	background: rgba(255,255,255,0.8);
 	border-radius: 0px 0px 5px 5px;
 	padding: 5px 7px;
-	right: 328px;
+	right: 320px;
 	top: 38px;
 	text-align: center;
 }
 
-.menu li ul li:nth-child(1):after,.menu li ul li:nth-child(2):after{
+.menu li ul li:nth-child(1):after,.menu li ul li:nth-child(2):after,.menu li ul li:nth-child(3):after{
 	content: none;
 }
-.menu li ul li a{
-	padding: 15px 10px;
-	text-align: center;
-	color: #ffffff;
-	background: #3981CC;
-	position: relative;
-	max-width: 200px;
+.menu li ul li{
+	background: #3477bb;
+	width: 100%;
+}
+.menu li ul li:hover{
+	background: #de0115;
+	
 }
 .menu li ul li a:hover{
-
-	position: relative;
+	background: transparent;
 }
 
 
@@ -107,11 +109,17 @@
 	position: relative;
 	top: -30px;
 }
-
+.banner{
+	margin-top: -30px;
+}
 #owl-demo .item img{
     display: block;
     width: 100%;
     height: auto;
+}
+.owl-buttons{
+	position: relative;
+	top: -50px;
 }
 
 
@@ -314,6 +322,7 @@ ul.menu__footer{
 }
 .caja__consejos a{
 	text-decoration: none;
+	color: #5b5b58;
 }
 .caja__consejos a:hover{
 	color: #ffffff;
