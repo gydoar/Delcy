@@ -11,11 +11,11 @@
 		<div class="container">
 			<div class="two columns">
 			<ul class="menu__footer">
-				<li><a href="#">INICIO</a></li>
-				<li><a href="#">QUIÉN SOY</a></li>
-				<li><a href="#">ENFERMEDADES</a></li>
-				<li><a href="#">DIAGNOSTICOS</a></li>
-				<li><a href="#">CONTÁCTANOS</a></li>
+				<li><a href="/">INICIO</a></li>
+				<li><a href="quien-soy.php">QUIÉN SOY</a></li>
+				<li><a href="venosas.php">VARISES</a></li>
+				<li><a href="diagnosticos.php">DIAGNOSTICOS</a></li>
+				<li><a href="contactanos.php">CONTÁCTANOS</a></li>
 			</ul>
 			</div>
 			<div class="three columns">
@@ -24,12 +24,11 @@
 					<li><a href="#">ARTERIOSCLEROSIS</a></li>
 					<li><a href="#">PIE DIABÉTICO</a></li>
 					<li><a href="#">LINFEDEMAS</a></li>
-					<li><a href="#">VARISES</a></li>
 					<li><a href="#">ESCLEROTERAPIA</a></li>
 				</ul>
 			</div>
 			<div class="six columns">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d3976.3704212095818!2d-74.09653872698628!3d4.705549556248209!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2s!4v1445284858274" width="100%" height="152" frameborder="0" style="border:10" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.371357556165!2d-74.05117214996605!3d4.70538564291109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9ab4c86749b3%3A0xddb25a11405e3ee8!2sCl+127+%2319-10%2C+Bogot%C3%A1%2C+Colombia!5e0!3m2!1ses!2s!4v1445608346215" width="100%" height="152" frameborder="0" style="border:10" allowfullscreen></iframe>
 			</div>
 		</div>	
 	</div>

@@ -162,6 +162,9 @@ ul.menu__footer{
 	color: #ffffff;
 	text-decoration: none;
 }
+.menu__footer li a:hover{
+	font-weight: bold;
+}
 .bg__blue{
 	background: #3477bb;
 	padding: 20px 0px;
@@ -303,15 +306,23 @@ ul.menu__footer{
 .consejos{
 	text-align: center;
 }
-.consejos a:nth-child(2){
-	text-align: center;
-	border: 1px solid #f7f3f2;
-	border-width: 100%;
+
+.caja__consejos{
+	margin-top: 10px;
+	padding: 5px 0px;
+	border:1px solid #f7f3f2;
+}
+.caja__consejos a{
 	text-decoration: none;
 }
-.consejos a:nth-child(2):hover{
-	background: #3a75b6;
+.caja__consejos a:hover{
 	color: #ffffff;
+	padding: 10px 20px;
+}
+.caja__consejos:hover{
+	background: #3a75b6;
+	cursor: pointer;
+	color: #ffffff
 }
 .gracias{
 	text-align: center;

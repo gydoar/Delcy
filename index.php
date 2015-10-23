@@ -23,7 +23,7 @@
 				<div class="six columns">
 					<img class="twelve columns" src="images/venas-varices.jpg" alt="">
 					<p>Las várices son venas dilatadas que se inflaman y se elevan a la superficie de la piel. Pueden ser de un color morado o azul oscuro y parecer estar torcidas...</p>
-					<a class="botones__red" href="#">LEER MÁS</a>
+					<a class="botones__red" href="venosas.php">LEER MÁS</a>
 				</div>
 				<div class="six columns">
 					<img class="twelve columns" src="images/escleroteriapia.jpg" alt="">
@@ -73,24 +73,30 @@
 		<div class="row consejos">
 			<div class="three columns">
 				<a class="twelve columns" href=""><img class="twelve columns" src="images/cuando-duermes-1.jpg" alt=""></a>
-				<a href="">CUANDO DUERMES</a>
+				<div class="twelve columns caja__consejos">
+					<a href="">CUANDO DUERMES</a>
+				</div>	
 			</div>
 			<div class="three columns">
-				<a class="twelve columns" href=""><img class="twelve columns" src="images/cuando-duermes-1.jpg" alt=""></a>
-				<a href="">HAZ EJERCICIO</a>
+				<a class="twelve columns" href=""><img class="twelve columns" src="images/haz-ejercicio.png" alt=""></a>
+				<div class="twelve columns caja__consejos">
+					<a href="">HAZ EJERCICIO</a>
+				</div>	
 			</div>
 			<div class="three columns">
-				<a class="twelve columns" href=""><img class="twelve columns" src="images/cuando-duermes-1.jpg" alt=""></a>
-				<a href="">CUIDA TUS POSTURAS</a>
+				<a class="twelve columns" href=""><img class="twelve columns" src="images/cuida-tus-posturas.png" alt=""></a>
+				<div class="twelve columns caja__consejos">
+					<a href="">CUIDA TUS POSTURAS</a>
+				</div>	
 			</div>
 			<div class="three columns">
-				<a class="twelve columns" href=""><img class="twelve columns" src="images/cuando-duermes-1.jpg" alt=""></a>
-				<a href="">DIETA SANA</a>
+				<a class="twelve columns" href=""><img class="twelve columns" src="images/dieta-sana.png" alt=""></a>
+				<div class="twelve columns caja__consejos">
+					<a href="">DIETA SANA</a>
+				</div>	
 			</div>
-		</div>
-		
-	</div>
-	
+		</div>		
+	</div>	
 </div>
 
 

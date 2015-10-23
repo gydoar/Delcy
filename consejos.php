@@ -11,8 +11,10 @@
 
 			<h3>CUANDO DUERMES</h3>
 
-			<p class="twelve columns">
+			<p class="container">
+
 				<p><img src="images/cuando-duermes.jpg" alt=""></p>
+
 				<p>Dormir con las piernas levemente elevadas, con 1 o 2 almohadas en los pies, favorece el retorno en la circulación de la sangre.</p>
 				
 			</p>
