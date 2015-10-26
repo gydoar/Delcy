@@ -13,7 +13,7 @@
 
 			<p>
 				<p><img src="images/varices-1.png" alt=""></p>
-				<p>Las várices son venas dilatadas que se inflaman y se elevan a la superficie de la piel. Pueden ser de un color morado o azul oscuro y parecer estar torcidas y abultadas. Las várices se encuentran comúnmente en las partes posteriores de las pantorrillas o en la cara interna de la pierna. Se desarrollan cuando las válvulas venosas que permiten que la sangre fluya hacia el corazón dejan de funcionar adecuadamente. Como resultado, la sangre se acumula en las venas y provoca las dilataciones.</p>
+				<p>Las várices son venas dilatadas que se inflaman y se elevan a la superficie de la piel. Pueden ser de un color morado o azul oscuro y parecen estar torcidas y abultadas. Las várices se encuentran comúnmente en las partes posteriores de las pantorrillas o en la cara interna de la pierna. Se desarrollan cuando las válvulas venosas que permiten que la sangre fluya hacia el corazón dejen de funcionar adecuadamente. Como resultado, la sangre se acumula en las venas y provoca las dilataciones.</p>
 
 				<p>Entre los más significativos según avanza la enfermedad, destacan:</p>
 

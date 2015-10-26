@@ -50,7 +50,7 @@
 
         <ul class="icon__header">
           <li><a href="#"><img width="39px"src="images/icon-facebook.png" alt=""></a></li>
-          <li><a href="#"><img width="39px"src="images/icon-twitter.png" alt=""></a></li>
+          <li><a href="#"><img width="39px"src="images/icon-instagram.png" alt=""></a></li>
           <li><a href="#"><img width="39px"src="images/icon-youtube.png" alt=""></a></li>
         </ul>
 		</div>

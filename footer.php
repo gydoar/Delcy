@@ -13,7 +13,7 @@
 			<ul class="menu__footer">
 				<li><a href="/">INICIO</a></li>
 				<li><a href="quien-soy.php">QUIÉN SOY</a></li>
-				<li><a href="cuida-tu-salud.php">VARISES</a></li>
+				<li><a href="cuida-tu-salud.php">VARICES</a></li>
 				<li><a href="diagnosticos.php">DIAGNOSTICOS</a></li>
 				<li><a href="contactanos.php">CONTÁCTANOS</a></li>
 			</ul>

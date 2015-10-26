@@ -45,14 +45,14 @@
 					<li>Hospital cancerológico en consulta. Hospital San Rafael y Carlos Lleras deBogotá.</li>
 				</ul>
 				
-				<h4>Clinica general del norte:</h4>
+				<h4>Clínica general del norte:</h4>
 				<ul>
 					<li>Consulta externa, cirugía vascular periférica programada, control de pacientes hospitalizados, estudios vasculares no invasivos (dúplex Scan, doppler)</li>
 					<li>Manejo de programas  FER (ferrocarriles nacionales de Colombia)</li>
 					<li>PTOS (Puertos de Colombia) desde 2003 hasta septiembre de 2005</li>
 				</ul>
 
-				<h4>Clinica Renacer:</h4>
+				<h4>Clínica Renacer:</h4>
 				<ul>
 					<li>PTOS (Puertos de Colombia) desde 2003 hasta septiembre de 2005</li>
 				</ul>
@@ -67,7 +67,7 @@
 					<li>PTOS (Puertos de Colombia) desde 2003 hasta septiembre de 2005</li>
 				</ul>
 			
-				<h4>Clinica san Jose de Merlo:</h4>
+				<h4>Clínica san Jose de Merlo:</h4>
 				<ul>
 					<li>PTOS (Puertos de Colombia) desde 2003 hasta septiembre de 2005</li>
 				</ul>
